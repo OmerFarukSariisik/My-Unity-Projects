@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: e79796be8179d2b418b5bafc4a1bd59c
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -5125887795548259549
+    second: pivot_pince01|Coloplast_02Action
+  - first:
+      74: 4314880043055607331
+    second: pivot_pince01|pince_01|Take 001|BaseLayer
+  - first:
+      74: 7946798433435734706
+    second: pivot_pince01|pince_02|Take 001|BaseLayer
+  - first:
+      74: 1500704239942624247
+    second: pivot_pince01|pince_03|Take 001|BaseLayer
+  - first:
+      74: -5441756993263188094
+    second: pivot_pince01|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: -5744121578379967993
+    second: pivot_pince01|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: -2344389440469315649
+    second: pivot_pince01|PoseLib
+  - first:
+      74: 6888940112554940793
+    second: pivot_pince01|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: -7811310423546885292
+    second: pivot_pince01|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: 3536824097735805131
+    second: pivot_pince01|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take
+      001|Ba
+  - first:
+      74: 3020186463135578298
+    second: pivot_pince01|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take
+      001|Ba
+  - first:
+      74: 6154732151640877313
+    second: pivot_pince01|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take
+      001|Ba
+  - first:
+      74: 3851792405960311036
+    second: pivot_pince01|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: 6840250707761386392
+    second: pivot_pince01|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: -2537807610235870458
+    second: pivot_pince01|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: 1535790362683654859
+    second: pivot_pince01|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: 5704231892778671024
+    second: pivot_pince01|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: 570046599214681048
+    second: pivot_pince01|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: -5640204282970928181
+    second: pivot_pince01|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: 7202509229327738850
+    second: pivot_pince01|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: -7529085614831323203
+    second: pivot_pince01|tube_01|Take 001|BaseLayer
+  - first:
+      74: -1475259727120792952
+    second: pivot_pince02|Coloplast_02Action
+  - first:
+      74: -5649071434252562138
+    second: pivot_pince02|pince_01|Take 001|BaseLayer
+  - first:
+      74: 5253704373577448486
+    second: pivot_pince02|pince_02|Take 001|BaseLayer
+  - first:
+      74: 8275009002846627865
+    second: pivot_pince02|pince_03|Take 001|BaseLayer
+  - first:
+      74: -5166896659864323282
+    second: pivot_pince02|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: -8726341978599289699
+    second: pivot_pince02|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: 2209503777343521439
+    second: pivot_pince02|PoseLib
+  - first:
+      74: -5327296513604016882
+    second: pivot_pince02|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: 7570257975917624274
+    second: pivot_pince02|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: 7789015415522741824
+    second: pivot_pince02|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take
+      001|Ba
+  - first:
+      74: -5846472961887904381
+    second: pivot_pince02|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take
+      001|Ba
+  - first:
+      74: 4415565184341243170
+    second: pivot_pince02|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take
+      001|Ba
+  - first:
+      74: -3498065247439905132
+    second: pivot_pince02|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: 2712436753248811873
+    second: pivot_pince02|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: 8516031302711115510
+    second: pivot_pince02|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: -4335045375846355481
+    second: pivot_pince02|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: 1969783333249075141
+    second: pivot_pince02|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: 6476072082049133451
+    second: pivot_pince02|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: 6381067360991404988
+    second: pivot_pince02|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: 7792554107683008650
+    second: pivot_pince02|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: 5628136943142342014
+    second: pivot_pince02|tube_01|Take 001|BaseLayer
+  - first:
+      74: -248983047281286475
+    second: pince_03|Coloplast_02Action
+  - first:
+      74: 9006453232794295342
+    second: pince_03|pince_01|Take 001|BaseLayer
+  - first:
+      74: 4154239725894082261
+    second: pince_03|pince_02|Take 001|BaseLayer
+  - first:
+      74: -3897594771252399393
+    second: pince_03|pince_03|Take 001|BaseLayer
+  - first:
+      74: -4797822499433008097
+    second: pince_03|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: -1451183377262730466
+    second: pince_03|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: 3299396040826538868
+    second: pince_03|PoseLib
+  - first:
+      74: 3586315540058503806
+    second: pince_03|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: -7624673169441943035
+    second: pince_03|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: -5381648163375206272
+    second: pince_03|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take 001|Ba
+  - first:
+      74: 7246313669038660795
+    second: pince_03|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take 001|Ba
+  - first:
+      74: 1019415289677599438
+    second: pince_03|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take 001|Ba
+  - first:
+      74: -8340345205429469094
+    second: pince_03|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: -2581894032601079765
+    second: pince_03|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: 7249289664459640471
+    second: pince_03|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: -2698747471517099268
+    second: pince_03|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: 8920758624683341894
+    second: pince_03|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: 522834227592921921
+    second: pince_03|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: -1488341506481327484
+    second: pince_03|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: 64838147340778499
+    second: pince_03|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: -1402608053718322485
+    second: pince_03|tube_01|Take 001|BaseLayer
+  - first:
+      74: -3748863601405066066
+    second: tube_01|Coloplast_02Action
+  - first:
+      74: -4522902643977130541
+    second: tube_01|pince_01|Take 001|BaseLayer
+  - first:
+      74: -4470381538901121238
+    second: tube_01|pince_02|Take 001|BaseLayer
+  - first:
+      74: 6133552147957380902
+    second: tube_01|pince_03|Take 001|BaseLayer
+  - first:
+      74: 560084070143158367
+    second: tube_01|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: 5533631391852572868
+    second: tube_01|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: -5304386185841088470
+    second: tube_01|PoseLib
+  - first:
+      74: -5833087078343096701
+    second: tube_01|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: 3871808354668898234
+    second: tube_01|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: 7338596486709205738
+    second: tube_01|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take 001|Ba
+  - first:
+      74: 8498146353738736500
+    second: tube_01|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take 001|Ba
+  - first:
+      74: -1305160873387011107
+    second: tube_01|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take 001|Ba
+  - first:
+      74: -8609284142486614987
+    second: tube_01|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: -4657638316091888916
+    second: tube_01|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: -6192535058392657056
+    second: tube_01|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: -602855707787185606
+    second: tube_01|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: 471042394679855538
+    second: tube_01|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: 4380445601320103562
+    second: tube_01|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: 2336396441842608896
+    second: tube_01|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: 8557776871270344151
+    second: tube_01|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: 5912440218502557432
+    second: tube_01|tube_01|Take 001|BaseLayer
+  - first:
+      74: -2804180880025684937
+    second: pince_02|Coloplast_02Action
+  - first:
+      74: 3232541345162051206
+    second: pince_02|pince_01|Take 001|BaseLayer
+  - first:
+      74: -9181872840995133933
+    second: pince_02|pince_02|Take 001|BaseLayer
+  - first:
+      74: -1683956812088128191
+    second: pince_02|pince_03|Take 001|BaseLayer
+  - first:
+      74: -1588203025873593688
+    second: pince_02|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: 7137027585384310082
+    second: pince_02|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: -7814529372872632420
+    second: pince_02|PoseLib
+  - first:
+      74: -4463319120017804445
+    second: pince_02|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: 1605791868757969983
+    second: pince_02|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: 1507739809119659680
+    second: pince_02|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take 001|Ba
+  - first:
+      74: -4113419962971865189
+    second: pince_02|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take 001|Ba
+  - first:
+      74: 4474223055574122736
+    second: pince_02|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take 001|Ba
+  - first:
+      74: 3240065530588482415
+    second: pince_02|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: 5013904107145270529
+    second: pince_02|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: -2151291056670292866
+    second: pince_02|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: 5821643753130212547
+    second: pince_02|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: -8813661546392092122
+    second: pince_02|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: -7124695207925712166
+    second: pince_02|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: -4085024504562014915
+    second: pince_02|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: 7074048848841379539
+    second: pince_02|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: -1516306864909359301
+    second: pince_02|tube_01|Take 001|BaseLayer
+  - first:
+      74: 7625872542743132610
+    second: pince_01|Coloplast_02Action
+  - first:
+      74: 1750723442076925426
+    second: pince_01|pince_01|Take 001|BaseLayer
+  - first:
+      74: 6297736200333410806
+    second: pince_01|pince_02|Take 001|BaseLayer
+  - first:
+      74: -3043300440205013931
+    second: pince_01|pince_03|Take 001|BaseLayer
+  - first:
+      74: -5607898743993676319
+    second: pince_01|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: -4653158742457371654
+    second: pince_01|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: -5065960823856944299
+    second: pince_01|PoseLib
+  - first:
+      74: 1314064699693992335
+    second: pince_01|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: 4865078834893567099
+    second: pince_01|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: 3783865749729830632
+    second: pince_01|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take 001|Ba
+  - first:
+      74: 8797673008500459614
+    second: pince_01|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take 001|Ba
+  - first:
+      74: 7946419489644582622
+    second: pince_01|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take 001|Ba
+  - first:
+      74: 752033490539503221
+    second: pince_01|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: 8203089176051216422
+    second: pince_01|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: 4886345786083077771
+    second: pince_01|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: 7638994402648877153
+    second: pince_01|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: 4139464278491193214
+    second: pince_01|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: -3549383204107963163
+    second: pince_01|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: 1925401351760286704
+    second: pince_01|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: -1297330463638334834
+    second: pince_01|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: 6900502845628788285
+    second: pince_01|tube_01|Take 001|BaseLayer
+  - first:
+      74: 2073693694548410006
+    second: Armature.001|Armature.001|mixamo.com|Layer0
+  - first:
+      74: 495427370130382429
+    second: Armature.001|Armature.001|mixamo.com|Layer0.001
+  - first:
+      74: -814350548788644060
+    second: Armature.001|Armature.002|mixamo.com|Layer0
+  - first:
+      74: -6734315199927337518
+    second: Armature.001|Armature|mixamo.com|Layer0
+  - first:
+      74: -7783394841882285919
+    second: Armature.001|Coloplast_02Action
+  - first:
+      74: 5571045744391020700
+    second: Armature.001|pince_01|Take 001|BaseLayer
+  - first:
+      74: 8591257571802956114
+    second: Armature.001|pince_02|Take 001|BaseLayer
+  - first:
+      74: -5523203046419510293
+    second: Armature.001|pince_03|Take 001|BaseLayer
+  - first:
+      74: 4954667101546349398
+    second: Armature.001|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: -2696501091324165330
+    second: Armature.001|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: -2659925135104766379
+    second: Armature.001|PoseLib
+  - first:
+      74: 3672726685972339110
+    second: Armature.001|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: -4916358802213626673
+    second: Armature.001|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: 2708362452624080719
+    second: Armature.001|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take
+      001|Ba
+  - first:
+      74: -8370934966092042195
+    second: Armature.001|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take
+      001|Ba
+  - first:
+      74: -2655581212464196737
+    second: Armature.001|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take
+      001|Ba
+  - first:
+      74: 2325174665042115473
+    second: Armature.001|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: -1227826298122386067
+    second: Armature.001|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: -2274752054090181325
+    second: Armature.001|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: -6271497932105578395
+    second: Armature.001|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: 261827847971897166
+    second: Armature.001|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: 8525489477429123084
+    second: Armature.001|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: -6164273264429237284
+    second: Armature.001|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: -1010350294677874242
+    second: Armature.001|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: -4776115492459927940
+    second: Armature.001|tube_01|Take 001|BaseLayer
+  - first:
+      74: 6877131195255139511
+    second: Coloplast_02|Coloplast_02Action
+  - first:
+      74: 294373062214980189
+    second: Coloplast_02|pince_01|Take 001|BaseLayer
+  - first:
+      74: 3430946702201165316
+    second: Coloplast_02|pince_02|Take 001|BaseLayer
+  - first:
+      74: -3534133889517134647
+    second: Coloplast_02|pince_03|Take 001|BaseLayer
+  - first:
+      74: -3572066225327155327
+    second: Coloplast_02|pivot_pince01|Take 001|BaseLayer
+  - first:
+      74: 8596923326739162058
+    second: Coloplast_02|pivot_pince02|Take 001|BaseLayer
+  - first:
+      74: -1222594870198125853
+    second: Coloplast_02|PoseLib
+  - first:
+      74: 3096671948425227944
+    second: Coloplast_02|Presentoire03|Presentoire03|Autres-stands_001|Take 001|BaseLaye
+  - first:
+      74: 5571873531542262907
+    second: Coloplast_02|Presentoire03|Presentoire03|Car_Type_1_001_Body|Take 001|BaseLa
+  - first:
+      74: -6368021945076937602
+    second: Coloplast_02|Presentoire03|Presentoire03|Car_Type_1_002_Body_001|Take
+      001|Ba
+  - first:
+      74: -1881769990305228790
+    second: Coloplast_02|Presentoire03|Presentoire03|Car_Type_2_001_Body_001|Take
+      001|Ba
+  - first:
+      74: -6387574067772306348
+    second: Coloplast_02|Presentoire03|Presentoire03|Car_Type_2_002_Body_001|Take
+      001|Ba
+  - first:
+      74: -4976172559588700342
+    second: Coloplast_02|Presentoire03|Presentoire03|Green-peppers_001|Take 001|BaseLaye
+  - first:
+      74: 5268407831248828208
+    second: Coloplast_02|Presentoire03|Presentoire03|PerchoirPorte01Action|Presentoire03
+  - first:
+      74: -1288581816907368010
+    second: Coloplast_02|Presentoire03|Presentoire03|PerchoirPorte02Action|Presentoire03
+  - first:
+      74: -6471398608905194870
+    second: Coloplast_02|Presentoire03|Presentoire03|Red-peppers_001|Take 001|BaseLayer|
+  - first:
+      74: -7701188202564545278
+    second: Coloplast_02|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer.001
+  - first:
+      74: -6216271190410415428
+    second: Coloplast_02|Presentoire03|Presentoire03|Tonnelle_001|Take 001|BaseLayer|Pre
+  - first:
+      74: -7683666426587920630
+    second: Coloplast_02|Presentoire03|Presentoire03|Tonnelle_002|Take 001|BaseLayer|Pre
+  - first:
+      74: 7658610575956649525
+    second: Coloplast_02|Presentoire03|Presentoire03|Woodbox_001|Take 001|BaseLayer|Pres
+  - first:
+      74: 7459395868468553823
+    second: Coloplast_02|tube_01|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
