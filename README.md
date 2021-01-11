@@ -1,1 +1,1 @@
-Toplam 4 tane olmak üzere her branch'de bir oyun projesi vardır.
+There are 5 branches and each branch has a Unity project.
