@@ -1,1 +1,1 @@
-Toplam 4 tane olmak üzere her branch'de bir oyun projesi vardır.
+These are scripts of the game Regular Fight which I've published on Google Play Store.
