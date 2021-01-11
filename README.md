@@ -1,1 +1,1 @@
-Toplam 4 tane olmak üzere her branch'de bir oyun projesi vardır.
+This 2.5D game is made in Global Game Jam 2020. We had 4 members in our team.
